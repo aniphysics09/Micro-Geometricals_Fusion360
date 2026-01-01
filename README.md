@@ -9,5 +9,6 @@ The inner area of the container contains a few hundreds of tiny structures - wit
 There are regular geometrical structures, like cuboids, hemispheres, cylinders, prisms, etc.
 Each script is for creating one type of structure in the middle area.
 
-<img width="949" height="692" alt="image" src="https://github.com/user-attachments/assets/be787089-6949-402e-b7af-3f60bd6e6f55" />
+<img width="883" height="664" alt="image" src="https://github.com/user-attachments/assets/4b33b96e-887c-4e51-9fc4-b4f847022192" />
 
+<img width="1170" height="773" alt="image" src="https://github.com/user-attachments/assets/b66cc694-4277-4bc3-811a-7ad277dbba66" />

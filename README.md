@@ -9,6 +9,8 @@ The inner area of the container contains a few hundreds of tiny structures - wit
 There are regular geometrical structures, like cuboids, hemispheres, cylinders, prisms, etc.
 Each script is for creating one type of structure in the middle area.
 
+Due to large number of the tiny structures, it may take long time to run the script in Fusion and create the design. It may take as long as 30 minutes.
+The default number of tiny structures is set to 500 in the scripts. It can be changed as required.
 <img width="883" height="664" alt="image" src="https://github.com/user-attachments/assets/4b33b96e-887c-4e51-9fc4-b4f847022192" />
 
 <img width="1170" height="773" alt="image" src="https://github.com/user-attachments/assets/b66cc694-4277-4bc3-811a-7ad277dbba66" />

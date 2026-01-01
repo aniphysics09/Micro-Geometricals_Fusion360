@@ -12,3 +12,5 @@ Each script is for creating one type of structure in the middle area.
 <img width="883" height="664" alt="image" src="https://github.com/user-attachments/assets/4b33b96e-887c-4e51-9fc4-b4f847022192" />
 
 <img width="1170" height="773" alt="image" src="https://github.com/user-attachments/assets/b66cc694-4277-4bc3-811a-7ad277dbba66" />
+
+The CAD files are to be used for 3D printing of the blocks. Those blocks are to be used for filling with scattering liquid, and imaging the tiny structures imerged in the scattering medium. Those images are to be used for data analysis experiments for imaging through scattering media.
